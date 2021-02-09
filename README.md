@@ -13,7 +13,7 @@ The final piece of code will look like in given diagram.
 ## Dependencies
 
 - Python 3.6
-- RStudio
+- Anaconda(Spyder)
 - NumPy
 - Scikit-learn
 - Matplotlib
