@@ -8,3 +8,4 @@ We have created a flag with help of Machine Learning libraries. Measurements for
 ![Output Diagram](flag.png)
 
 The final piece of code will look like in given diagram.
+- The dimensions and other features can be played with in order to have better understanding of code.
