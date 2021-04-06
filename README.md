@@ -17,3 +17,7 @@ The final piece of code will look like in given diagram.
 - NumPy
 - Scikit-learn
 - Matplotlib
+
+## 📦 Install
+
+Install VSCode or any other code editor that suits you. Make a gitHub repository and connet it with VSCode file to make instant push request. 
